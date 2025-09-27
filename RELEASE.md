@@ -27,3 +27,5 @@ pdflatex main.tex
 **Next steps**
 - Optional: consolidate macro definitions for information-theoretic quantities in `other_tex/format_macros.tex` (e.g., `\newcommand{\Sbits}{S_{\mathrm{bits}}}`).
 - Extend dynamics sections to connect thermal layer to field dynamics in subsequent articles.
+
+https://doi.org/10.5281/zenodo.17211721
