@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Planck-Cell Thermal Physics"
+abstract: >
+  Thermodynamic and statistical formulations within the Planck-Cell S/t framework:
+  entropy–tick equivalence ΔS = Δτ, microstate counting across adjacency graphs,
+  and temperature emergence from tick distribution gradients. Repository contains
+  the release PDF and LaTeX source.
+
+authors:
+  - family-names: "Langstaff"
+    given-names: "Christopher Michael"
+
+version: "v2.0.0"
+date-released: "2025-10-22"
+repository-code: "https://github.com/langstaffchristopherm-ops/Plack-Cell-Thermal-Physics"
+url: "https://github.com/langstaffchristopherm-ops/Plack-Cell-Thermal-Physics"
+license: "CC-BY-4.0"
+
+# VERSION DOI (this release)
+doi: "10.5281/zenodo.17421011"
+
+# CONCEPT DOI (stable root)
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17211721"
+
+preferred-citation:
+  type: article
+  title: "Planck-Cell Thermal Physics"
+  authors:
+    - family-names: "Langstaff"
+      given-names: "C."
+  year: 2025
+  doi: "10.5281/zenodo.17421011"
+  url: "https://doi.org/10.5281/zenodo.17421011"
+  journal: "Zenodo"
