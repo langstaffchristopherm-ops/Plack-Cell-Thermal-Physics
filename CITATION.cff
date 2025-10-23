@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Planck-Cell Thermal Physics"
+abstract: >
+  Connects tick entropy and thermodynamic temperature in the Planck-Cell S/t
+  framework. Develops microscopic definitions of heat flow, specific capacity,
+  and entropy gradients in a discrete causal network. Shows how ΔS = Δτ yields
+  a fundamental time–temperature relation consistent with Debye, blackbody, and
+  equipartition limits. Repository contains the release PDF and LaTeX source.
+
+authors:
+  - family-names: "Langstaff"
+    given-names: "Christopher Michael"
+
+version: "v2.0.3"
+date-released: "2025-10-23"
+repository-code: "https://github.com/langstaffchristopherm-ops/Planck-Cell-Thermal-Physics"
+url: "https://github.com/langstaffchristopherm-ops/Planck-Cell-Thermal-Physics"
+license: "CC-BY-4.0"
+
+doi: "10.5281/zenodo.17428561"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17211721"
+
+preferred-citation:
+  type: article
+  title: "Planck-Cell Thermal Physics"
+  authors:
+    - family-names: "Langstaff"
+      given-names: "C."
+  year: 2025
+  doi: "10.5281/zenodo.17428561"
+  url: "https://doi.org/10.5281/zenodo.17428561"
+  journal: "Zenodo"
